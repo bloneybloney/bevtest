@@ -3,6 +3,6 @@ def doubler(number):
     return result
 
 get_number = float(input("Type a number:  "))
-print("Evaluating your answer....")
+print("Retreiving your answer....")
 answer = doubler(get_number)
 print(f"Your correct answer is:  {answer}")
